@@ -1,6 +1,7 @@
 ﻿using Playstore;
 
 int x = 10;
+int y = x;
 IUser userObj1 = new User();
 userObj1.AddUser();
 
