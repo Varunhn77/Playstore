@@ -3,6 +3,7 @@
 int x = 10;
 int y = x;
 int z = y;
+int v = z;
 IUser userObj1 = new User();
 userObj1.AddUser();
 
